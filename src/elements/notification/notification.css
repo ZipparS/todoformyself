@@ -1,0 +1,12 @@
+.Notification {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    padding: 0 24px 24px 0;
+}
+.Notification__item {
+    margin-top: 10px;
+}
+.Notification__item:first-child {
+    margin-top: 0;
+}

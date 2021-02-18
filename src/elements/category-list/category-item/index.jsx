@@ -1,0 +1,1 @@
+export { CategoryItemContainer } from './category-item-container';

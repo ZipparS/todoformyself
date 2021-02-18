@@ -1,0 +1,7 @@
+.Input-with-button {
+    display: flex;
+    align-items: flex-end;
+}
+.Input-with-button__wrapper {
+    margin: 5px 0;
+}

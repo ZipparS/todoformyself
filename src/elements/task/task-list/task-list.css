@@ -1,0 +1,9 @@
+.ExpansionPanelDetails__inner {
+    width: 100%;
+}
+.ExpansionPanelDetails__action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 24px;
+}

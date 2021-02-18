@@ -1,0 +1,9 @@
+export { HomePage } from './home';
+export { LoginPage } from './login';
+export { CategoryPage } from './category';
+export { SelectCategory } from './select-category';
+export { NewSubcategory } from './new-subcategory';
+export { TasksPage } from './tasks';
+export { TaskItem } from './task-item';
+export { NewTask } from './new-task';
+export { NoMatch } from './no-match';

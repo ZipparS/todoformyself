@@ -1,0 +1,23 @@
+.Todo-main {
+    box-sizing: border-box;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.Todo-main__top {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    padding: 10px 15px;
+}
+.Todo-main__middle {
+    position: absolute;
+    left: 0;
+    right: -25px;
+    top: 90px;
+    bottom: -25px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    overflow: scroll;
+}

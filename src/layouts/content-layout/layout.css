@@ -1,0 +1,14 @@
+.Todo-content-layout {
+    box-sizing: border-box;
+    height: 100%;
+    padding-top: 60px;
+    position: relative;
+}
+.Todo-content-layout__inner {
+    padding-left: 315px;
+    position: relative;
+    height: 100%;
+    transition: padding-left 0.3s;
+}
+
+

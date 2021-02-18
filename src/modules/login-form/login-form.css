@@ -1,0 +1,11 @@
+.Login-form {
+    position: relative;
+    width: 250px;
+    margin: 0 auto;
+}
+.Login-form__wrapper {
+    margin-top: 25px;
+}
+.Login-form__wrapper--button {
+    margin-top: 40px;
+}
